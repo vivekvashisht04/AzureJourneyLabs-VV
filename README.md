@@ -16,6 +16,10 @@ Within this repository, you'll find detailed lab instructions and corresponding 
 - **Azure Cost Management Tools**: Focuses on managing and organizing Azure resources efficiently.
 - **Azure Identities**: Covers managing Azure Active Directory and role-based access controls.
 - **Azure Virtual Machines**: Deals with setting up and managing virtual machines within the Azure ecosystem.
+- **Azure Containers**: Explores container deployment and management using Azure Kubernetes Service and Azure Container Instances.
+- **Azure App Service**: Demonstrates how to create and manage web apps and integrate with Azure services.
+- **JSON and Bicep**: Introduces Infrastructure as Code (IaC) using JSON and Bicep for resource deployment.
+- **Azure Storage Services**: Details the management of Azure storage solutions, including blobs, files, and static websites.
 
 ## Engage and Connect
 I encourage you to explore the labs and reach out if you have any questions or need further insights. Whether you're also preparing for an Azure certification or just interested in cloud technologies, your feedback and insights are highly welcome.
