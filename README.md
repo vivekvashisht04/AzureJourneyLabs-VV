@@ -31,4 +31,5 @@ Within this repository, you'll find detailed lab instructions and corresponding 
 I encourage you to explore the labs and reach out if you have any questions or need further insights. Whether you're also preparing for an Azure certification or just interested in cloud technologies, your feedback and insights are highly welcome.
 
 Thank you for visiting my repository, and I hope it serves as a valuable resource on your own cloud journey!
+LinkedIn: https://www.linkedin.com/in/vivek-vashisht04/
 
